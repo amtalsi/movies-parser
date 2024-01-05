@@ -1,5 +1,5 @@
-def imageName = 'mlabouardy/movies-parser'
-def registry = 'https://registry.slowcoder.com'
+def imageName = 'am22d35n/parser'
+def registry = 'https://registry-1.docker.io/'
 
 node('workers'){
     stage('Checkout'){
